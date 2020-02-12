@@ -53,13 +53,14 @@ code {
   background-color: #fff1;
   backdrop-filter: blur(2px);
   background-blend-mode: screen;
-  padding: 20px;
+  padding: 60px 40px;
   overflow: hidden;
   color: #223d2d;
   font-weight: bold;
   font-size: 24px;
   font-family: JandaRomantic;
   text-align: justify;
+  overflow: hidden;
 }
 
 .cards {
